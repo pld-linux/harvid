@@ -1,11 +1,11 @@
 Summary:	HTTP Ardour Video Daemon
 Name:		harvid
-Version:	0.8.2
+Version:	0.9.1
 Release:	1
 License:	GPL v2
 Group:		Applications
 Source0:	https://github.com/x42/harvid/archive/v%{version}/%{name}-%{version}.tar.gz
-# Source0-md5:	b119406e6a42ed5649ac0658c72aac57
+# Source0-md5:	bc90741e96b5588350554ca40efdc3a3
 URL:		http://harvid.sf.net/
 BuildRequires:	ffmpeg-devel
 BuildRequires:	libjpeg-devel
