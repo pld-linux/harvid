@@ -1,7 +1,7 @@
 Summary:	HTTP Ardour Video Daemon
 Name:		harvid
 Version:	0.9.1
-Release:	2
+Release:	3
 License:	GPL v2
 Group:		Applications
 Source0:	https://github.com/x42/harvid/archive/v%{version}/%{name}-%{version}.tar.gz
